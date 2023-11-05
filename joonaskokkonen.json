@@ -1,7 +1,7 @@
 {
     "meta": {
         "createdBy": "info@musiikinluettelointi.fi",
-        "createdAt": "2023-11-05T10:42:05.522225Z",
+        "createdAt": "2023-11-05T16:14:09.522446Z",
         "license": {
             "name": "CC0 1.0 Universal",
             "url": "http://creativecommons.org/publicdomain/zero/1.0"
@@ -2884,34 +2884,32 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Lahti, 05.08.1979"
+                        }
+                    ],
+                    "date": "1979-08-05",
+                    "year": 1979,
+                    "place": {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Lahti, 05.08.1979"
+                                "literal": "Lahti"
                             }
                         ],
-                        "date": "1979-08-05",
-                        "year": 1979,
-                        "place": {
-                            "label": [
-                                {
-                                    "locale": "fi",
-                                    "literal": "Lahti"
-                                }
-                            ],
-                            "ysoUri": "http://www.yso.fi/onto/yso/p94250"
-                        },
-                        "note": "Ristinkirkko. ",
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2015). Yhtenäistetty Joonas Kokkonen. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 183. PDF. ISBN 978-952-5363-81-4. ",
-                                "id": "source-dd51ea2b-2d80-4829-9ce7-0fe99f67ab8f"
-                            }
-                        ]
-                    }
-                ]
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94250"
+                    },
+                    "note": "Ristinkirkko. ",
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2015). Yhtenäistetty Joonas Kokkonen. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 183. PDF. ISBN 978-952-5363-81-4. ",
+                            "id": "source-dd51ea2b-2d80-4829-9ce7-0fe99f67ab8f"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {

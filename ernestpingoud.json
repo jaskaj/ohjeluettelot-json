@@ -1,7 +1,7 @@
 {
     "meta": {
         "createdBy": "info@musiikinluettelointi.fi",
-        "createdAt": "2023-11-05T10:46:43.562195Z",
+        "createdAt": "2023-11-05T16:14:32.002720Z",
         "license": {
             "name": "CC0 1.0 Universal",
             "url": "http://creativecommons.org/publicdomain/zero/1.0"
@@ -187,23 +187,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1918"
-                            }
-                        ],
-                        "year": 1918,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1918"
+                        }
+                    ],
+                    "year": 1918,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -366,58 +364,56 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Pietari, 1917"
+                        }
+                    ],
+                    "year": 1917,
+                    "place": {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Pietari, 1917"
+                                "literal": "Pietari"
                             }
                         ],
-                        "year": 1917,
-                        "place": {
-                            "label": [
-                                {
-                                    "locale": "fi",
-                                    "literal": "Pietari"
-                                }
-                            ],
-                            "ysoUri": "http://www.yso.fi/onto/yso/p105354"
-                        },
-                        "note": "\"Kantaesitys oli vuonna 1917 Pietarissa, Suomessa 1918\" (Poroila 2014)",
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
+                        "ysoUri": "http://www.yso.fi/onto/yso/p105354"
                     },
-                    {
+                    "note": "\"Kantaesitys oli vuonna 1917 Pietarissa, Suomessa 1918\" (Poroila 2014)",
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Suomi, 1918"
+                        }
+                    ],
+                    "year": 1918,
+                    "place": {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Suomi, 1918"
+                                "literal": "Suomi"
                             }
                         ],
-                        "year": 1918,
-                        "place": {
-                            "label": [
-                                {
-                                    "locale": "fi",
-                                    "literal": "Suomi"
-                                }
-                            ],
-                            "ysoUri": "http://www.yso.fi/onto/yso/p94426"
-                        },
-                        "note": "\"Kantaesitys oli vuonna 1917 Pietarissa, Suomessa 1918\" (Poroila 2014)",
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94426"
+                    },
+                    "note": "\"Kantaesitys oli vuonna 1917 Pietarissa, Suomessa 1918\" (Poroila 2014)",
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -582,23 +578,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1918"
-                            }
-                        ],
-                        "year": 1918,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1918"
+                        }
+                    ],
+                    "year": 1918,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -753,23 +747,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1919"
-                            }
-                        ],
-                        "year": 1919,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1919"
+                        }
+                    ],
+                    "year": 1919,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -932,23 +924,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1918"
-                            }
-                        ],
-                        "year": 1918,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1918"
+                        }
+                    ],
+                    "year": 1918,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -1236,23 +1226,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1918"
-                            }
-                        ],
-                        "year": 1918,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1918"
+                        }
+                    ],
+                    "year": 1918,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "linkedWork": [
                 {
@@ -1388,23 +1376,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1933"
-                            }
-                        ],
-                        "year": 1933,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1933"
+                        }
+                    ],
+                    "year": 1933,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "linkedWork": [
                 {
@@ -1751,23 +1737,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1925"
-                            }
-                        ],
-                        "year": 1925,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1925"
+                        }
+                    ],
+                    "year": 1925,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -1940,23 +1924,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1919"
-                            }
-                        ],
-                        "year": 1919,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1919"
+                        }
+                    ],
+                    "year": 1919,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "note": "\"Musiikin pohjalta tehty baletti (nimellä “Don Quijote”) esitettiin Suomalaisessa Oopperassa 1941.\" (Poroila 2014)",
             "sources": [
@@ -2090,23 +2072,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1919"
-                            }
-                        ],
-                        "year": 1919,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1919"
+                        }
+                    ],
+                    "year": 1919,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -2278,23 +2258,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1920"
-                            }
-                        ],
-                        "year": 1920,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1920"
+                        }
+                    ],
+                    "year": 1920,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "note": "\"Musiikin pohjalta tehty baletti Sammuvat silmät esitettiin Suomalaisessa Oopperassa 1941.\" (Poroila 2014)",
             "sources": [
@@ -2599,23 +2577,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1924"
-                            }
-                        ],
-                        "year": 1924,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1924"
+                        }
+                    ],
+                    "year": 1924,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "note": "\"Musiikin pohjalta tehty baletti Epäjumala esitettiin Suomalaisessa Oopperassa 1941.\" (Poroila 2014)",
             "sources": [
@@ -2780,23 +2756,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1920"
-                            }
-                        ],
-                        "year": 1920,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1920"
+                        }
+                    ],
+                    "year": 1920,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -2941,23 +2915,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1924"
-                            }
-                        ],
-                        "year": 1924,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1924"
+                        }
+                    ],
+                    "year": 1924,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -3092,23 +3064,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1922"
-                            }
-                        ],
-                        "year": 1922,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1922"
+                        }
+                    ],
+                    "year": 1922,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -3293,23 +3263,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1922"
-                            }
-                        ],
-                        "year": 1922,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1922"
+                        }
+                    ],
+                    "year": 1922,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -3477,58 +3445,56 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Berliini, 1923"
+                        }
+                    ],
+                    "year": 1923,
+                    "place": {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Berliini, 1923"
+                                "literal": "Berliini"
                             }
                         ],
-                        "year": 1923,
-                        "place": {
-                            "label": [
-                                {
-                                    "locale": "fi",
-                                    "literal": "Berliini"
-                                }
-                            ],
-                            "ysoUri": "http://www.yso.fi/onto/yso/p105612"
-                        },
-                        "note": "\"Kantaesitys oli Berliinissä 1923, Helsingissä 1924.\" (Poroila 2014)",
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
+                        "ysoUri": "http://www.yso.fi/onto/yso/p105612"
                     },
-                    {
+                    "note": "\"Kantaesitys oli Berliinissä 1923, Helsingissä 1924.\" (Poroila 2014)",
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                },
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Helsinki, 1924"
+                        }
+                    ],
+                    "year": 1924,
+                    "place": {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Helsinki, 1924"
+                                "literal": "Helsinki"
                             }
                         ],
-                        "year": 1924,
-                        "place": {
-                            "label": [
-                                {
-                                    "locale": "fi",
-                                    "literal": "Helsinki"
-                                }
-                            ],
-                            "ysoUri": "http://www.yso.fi/onto/yso/p94137"
-                        },
-                        "note": "\"Kantaesitys oli Berliinissä 1923, Helsingissä 1924.\" (Poroila 2014)",
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
+                    },
+                    "note": "\"Kantaesitys oli Berliinissä 1923, Helsingissä 1924.\" (Poroila 2014)",
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -3677,23 +3643,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1927"
-                            }
-                        ],
-                        "year": 1927,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1927"
+                        }
+                    ],
+                    "year": 1927,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -4246,23 +4210,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1931"
-                            }
-                        ],
-                        "year": 1931,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1931"
+                        }
+                    ],
+                    "year": 1931,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "linkedWork": [
                 {
@@ -4467,23 +4429,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1929"
-                            }
-                        ],
-                        "year": 1929,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1929"
+                        }
+                    ],
+                    "year": 1929,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -5114,33 +5074,31 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Helsinki, 1941"
+                        }
+                    ],
+                    "year": 1941,
+                    "place": {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Helsinki, 1941"
+                                "literal": "Helsinki"
                             }
                         ],
-                        "year": 1941,
-                        "place": {
-                            "label": [
-                                {
-                                    "locale": "fi",
-                                    "literal": "Helsinki"
-                                }
-                            ],
-                            "ysoUri": "http://www.yso.fi/onto/yso/p94137"
-                        },
-                        "note": "Suomalainen Ooppera. \"Kantaesitys oli Suomalaisessa Oopperassa vuonna 1941. Orkesterisarjana (ilman osaa 6) sarja esitettiin jo 1937.\" (Poroila 2014)",
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
+                    },
+                    "note": "Suomalainen Ooppera. \"Kantaesitys oli Suomalaisessa Oopperassa vuonna 1941. Orkesterisarjana (ilman osaa 6) sarja esitettiin jo 1937.\" (Poroila 2014)",
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "linkedWork": [
                 {
@@ -5286,23 +5244,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1938"
-                            }
-                        ],
-                        "year": 1938,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1938"
+                        }
+                    ],
+                    "year": 1938,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "note": "\"Teos esitettiin balettina Tukholmassa vuonna 1941. Teoksesta tunnetaan Andrei Rudnevin sovitus kahdelle pianolle 8-kätisesti (kopio Sibelius-Akatemian kirjastossa).\" (Poroila 2014)",
             "sources": [
@@ -7195,23 +7151,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1933"
-                            }
-                        ],
-                        "year": 1933,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1933"
+                        }
+                    ],
+                    "year": 1933,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -7358,23 +7312,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1930"
-                            }
-                        ],
-                        "year": 1930,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1930"
+                        }
+                    ],
+                    "year": 1930,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
@@ -7811,23 +7763,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1927"
-                            }
-                        ],
-                        "year": 1927,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1927"
+                        }
+                    ],
+                    "year": 1927,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "secondaryAuthor": [
                 {
@@ -8188,23 +8138,21 @@
                 }
             ],
             "firstPerformed": [
-                [
-                    {
-                        "label": [
-                            {
-                                "locale": "fi",
-                                "literal": "1977"
-                            }
-                        ],
-                        "year": 1977,
-                        "sources": [
-                            {
-                                "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
-                                "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
-                            }
-                        ]
-                    }
-                ]
+                {
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "1977"
+                        }
+                    ],
+                    "year": 1977,
+                    "sources": [
+                        {
+                            "reference": "Poroila, Heikki (2014). Yhtenäistetty Ernest Pingoud. Teosten yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 169. PDF. ISBN 978-952-5363-68-5. ",
+                            "id": "source-87511f45-eb6e-414d-832f-eadd88967c4b"
+                        }
+                    ]
+                }
             ],
             "sources": [
                 {
