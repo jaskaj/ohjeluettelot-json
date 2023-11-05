@@ -1,7 +1,7 @@
 {
     "meta": {
         "createdBy": "info@musiikinluettelointi.fi",
-        "createdAt": "2023-11-05T10:28:33.783722Z",
+        "createdAt": "2023-11-05T10:41:50.913645Z",
         "license": {
             "name": "CC0 1.0 Universal",
             "url": "http://creativecommons.org/publicdomain/zero/1.0"
@@ -3951,32 +3951,34 @@
                 }
             ],
             "firstPerformed": [
-                {
-                    "label": [
-                        {
-                            "locale": "fi",
-                            "literal": "Helsinki, 30.07.1939"
-                        }
-                    ],
-                    "date": "1939-07-30",
-                    "year": 1939,
-                    "place": {
+                [
+                    {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Helsinki"
+                                "literal": "Helsinki, 30.07.1939"
                             }
                         ],
-                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
-                    },
-                    "note": "\"Kantaatti on sävelletty 22. kansainvälisen raittiuskongressin avajaisjuhlaan Vanhalla Ylioppilastalolla 30.7.1939. Konsertti radioitiin suorana lähetyksenä. Helsingin teatteriorkesteria johti Armas Järnefelt, solisteina Aune Talke ja Alfons Almi sekä Kilven kuoro.\" (Poroila 2012)",
-                    "sources": [
-                        {
-                            "reference": "Poroila, Heikki (2012). Yhtenäistetty Armas Järnefelt. Yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 134. PDF. ISBN 978-952-5363-68-5. ",
-                            "id": "source-e674f774-82d7-48a8-ad7d-6bb3834a747e"
-                        }
-                    ]
-                }
+                        "date": "1939-07-30",
+                        "year": 1939,
+                        "place": {
+                            "label": [
+                                {
+                                    "locale": "fi",
+                                    "literal": "Helsinki"
+                                }
+                            ],
+                            "ysoUri": "http://www.yso.fi/onto/yso/p94137"
+                        },
+                        "note": "\"Kantaatti on sävelletty 22. kansainvälisen raittiuskongressin avajaisjuhlaan Vanhalla Ylioppilastalolla 30.7.1939. Konsertti radioitiin suorana lähetyksenä. Helsingin teatteriorkesteria johti Armas Järnefelt, solisteina Aune Talke ja Alfons Almi sekä Kilven kuoro.\" (Poroila 2012)",
+                        "sources": [
+                            {
+                                "reference": "Poroila, Heikki (2012). Yhtenäistetty Armas Järnefelt. Yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 134. PDF. ISBN 978-952-5363-68-5. ",
+                                "id": "source-e674f774-82d7-48a8-ad7d-6bb3834a747e"
+                            }
+                        ]
+                    }
+                ]
             ],
             "secondaryAuthor": [
                 {
@@ -6935,32 +6937,34 @@
                 }
             ],
             "firstPerformed": [
-                {
-                    "label": [
-                        {
-                            "locale": "fi",
-                            "literal": "Helsinki, 09.04.1902"
-                        }
-                    ],
-                    "date": "1902-04-09",
-                    "year": 1902,
-                    "place": {
+                [
+                    {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Helsinki"
+                                "literal": "Helsinki, 09.04.1902"
                             }
                         ],
-                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
-                    },
-                    "note": "Kansallisteatteri. \"Tilausteos Kansallisteatterin avajaisiin 9.4.1902.\" (Poroila 2012)",
-                    "sources": [
-                        {
-                            "reference": "Poroila, Heikki (2012). Yhtenäistetty Armas Järnefelt. Yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 134. PDF. ISBN 978-952-5363-68-5. ",
-                            "id": "source-e674f774-82d7-48a8-ad7d-6bb3834a747e"
-                        }
-                    ]
-                }
+                        "date": "1902-04-09",
+                        "year": 1902,
+                        "place": {
+                            "label": [
+                                {
+                                    "locale": "fi",
+                                    "literal": "Helsinki"
+                                }
+                            ],
+                            "ysoUri": "http://www.yso.fi/onto/yso/p94137"
+                        },
+                        "note": "Kansallisteatteri. \"Tilausteos Kansallisteatterin avajaisiin 9.4.1902.\" (Poroila 2012)",
+                        "sources": [
+                            {
+                                "reference": "Poroila, Heikki (2012). Yhtenäistetty Armas Järnefelt. Yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 134. PDF. ISBN 978-952-5363-68-5. ",
+                                "id": "source-e674f774-82d7-48a8-ad7d-6bb3834a747e"
+                            }
+                        ]
+                    }
+                ]
             ],
             "sources": [
                 {
@@ -9003,32 +9007,34 @@
                 }
             ],
             "firstPerformed": [
-                {
-                    "label": [
-                        {
-                            "locale": "fi",
-                            "literal": "Vaasa, 21.06.1894"
-                        }
-                    ],
-                    "date": "1894-06-21",
-                    "year": 1894,
-                    "place": {
+                [
+                    {
                         "label": [
                             {
                                 "locale": "fi",
-                                "literal": "Vaasa"
+                                "literal": "Vaasa, 21.06.1894"
                             }
                         ],
-                        "ysoUri": "http://www.yso.fi/onto/yso/p94466"
-                    },
-                    "note": "\"Teos esitettiin ensimmäisen kerran Korsholman 300-vuotisjuhlissa 21.6.1894.\" (Poroila 2012)",
-                    "sources": [
-                        {
-                            "reference": "Poroila, Heikki (2012). Yhtenäistetty Armas Järnefelt. Yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 134. PDF. ISBN 978-952-5363-68-5. ",
-                            "id": "source-e674f774-82d7-48a8-ad7d-6bb3834a747e"
-                        }
-                    ]
-                }
+                        "date": "1894-06-21",
+                        "year": 1894,
+                        "place": {
+                            "label": [
+                                {
+                                    "locale": "fi",
+                                    "literal": "Vaasa"
+                                }
+                            ],
+                            "ysoUri": "http://www.yso.fi/onto/yso/p94466"
+                        },
+                        "note": "\"Teos esitettiin ensimmäisen kerran Korsholman 300-vuotisjuhlissa 21.6.1894.\" (Poroila 2012)",
+                        "sources": [
+                            {
+                                "reference": "Poroila, Heikki (2012). Yhtenäistetty Armas Järnefelt. Yhtenäistettyjen nimekkeiden ohjeluettelo. Helsinki, Suomen musiikkikirjastoyhdistys. Suomen musiikkikirjastoyhdistyksen julkaisusarja, 134. PDF. ISBN 978-952-5363-68-5. ",
+                                "id": "source-e674f774-82d7-48a8-ad7d-6bb3834a747e"
+                            }
+                        ]
+                    }
+                ]
             ],
             "sources": [
                 {
