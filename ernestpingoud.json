@@ -1,7 +1,7 @@
 {
     "meta": {
         "createdBy": "info@musiikinluettelointi.fi",
-        "createdAt": "2023-11-04T10:12:22.370039Z",
+        "createdAt": "2023-11-05T10:29:03.459728Z",
         "license": {
             "name": "CC0 1.0 Universal",
             "url": "http://creativecommons.org/publicdomain/zero/1.0"
@@ -22,17 +22,21 @@
             "workCategories": [
                 {
                     "code": "withOpusNumber",
-                    "label": {
-                        "locale": "fi",
-                        "literal": "Opusnumeroidut teokset"
-                    }
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Opusnumeroidut teokset"
+                        }
+                    ]
                 },
                 {
                     "code": "withoutOpusNumber",
-                    "label": {
-                        "locale": "fi",
-                        "literal": "Opusnumerottomat teokset"
-                    }
+                    "label": [
+                        {
+                            "locale": "fi",
+                            "literal": "Opusnumerottomat teokset"
+                        }
+                    ]
                 }
             ]
         },
@@ -374,7 +378,8 @@
                                 "locale": "fi",
                                 "literal": "Suomi"
                             }
-                        ]
+                        ],
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94426"
                     },
                     "note": "\"Kantaesitys oli vuonna 1917 Pietarissa, Suomessa 1918\" (Poroila 2014)",
                     "sources": [
@@ -3429,7 +3434,8 @@
                                 "locale": "fi",
                                 "literal": "Helsinki"
                             }
-                        ]
+                        ],
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
                     },
                     "note": "\"Kantaesitys oli Berliinissä 1923, Helsingissä 1924.\" (Poroila 2014)",
                     "sources": [
@@ -5032,7 +5038,8 @@
                                 "locale": "fi",
                                 "literal": "Helsinki"
                             }
-                        ]
+                        ],
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
                     },
                     "note": "Suomalainen Ooppera. \"Kantaesitys oli Suomalaisessa Oopperassa vuonna 1941. Orkesterisarjana (ilman osaa 6) sarja esitettiin jo 1937.\" (Poroila 2014)",
                     "sources": [

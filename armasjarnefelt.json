@@ -1,7 +1,7 @@
 {
     "meta": {
         "createdBy": "info@musiikinluettelointi.fi",
-        "createdAt": "2023-11-04T10:11:59.867805Z",
+        "createdAt": "2023-11-05T10:28:33.783722Z",
         "license": {
             "name": "CC0 1.0 Universal",
             "url": "http://creativecommons.org/publicdomain/zero/1.0"
@@ -3959,13 +3959,15 @@
                         }
                     ],
                     "date": "1939-07-30",
+                    "year": 1939,
                     "place": {
                         "label": [
                             {
                                 "locale": "fi",
                                 "literal": "Helsinki"
                             }
-                        ]
+                        ],
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
                     },
                     "note": "\"Kantaatti on sävelletty 22. kansainvälisen raittiuskongressin avajaisjuhlaan Vanhalla Ylioppilastalolla 30.7.1939. Konsertti radioitiin suorana lähetyksenä. Helsingin teatteriorkesteria johti Armas Järnefelt, solisteina Aune Talke ja Alfons Almi sekä Kilven kuoro.\" (Poroila 2012)",
                     "sources": [
@@ -6941,13 +6943,15 @@
                         }
                     ],
                     "date": "1902-04-09",
+                    "year": 1902,
                     "place": {
                         "label": [
                             {
                                 "locale": "fi",
                                 "literal": "Helsinki"
                             }
-                        ]
+                        ],
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94137"
                     },
                     "note": "Kansallisteatteri. \"Tilausteos Kansallisteatterin avajaisiin 9.4.1902.\" (Poroila 2012)",
                     "sources": [
@@ -9007,13 +9011,15 @@
                         }
                     ],
                     "date": "1894-06-21",
+                    "year": 1894,
                     "place": {
                         "label": [
                             {
                                 "locale": "fi",
                                 "literal": "Vaasa"
                             }
-                        ]
+                        ],
+                        "ysoUri": "http://www.yso.fi/onto/yso/p94466"
                     },
                     "note": "\"Teos esitettiin ensimmäisen kerran Korsholman 300-vuotisjuhlissa 21.6.1894.\" (Poroila 2012)",
                     "sources": [
