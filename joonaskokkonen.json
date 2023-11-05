@@ -1,7 +1,7 @@
 {
     "meta": {
         "createdBy": "info@musiikinluettelointi.fi",
-        "createdAt": "2023-11-05T16:14:09.522446Z",
+        "createdAt": "2023-11-05T18:26:54.229359Z",
         "license": {
             "name": "CC0 1.0 Universal",
             "url": "http://creativecommons.org/publicdomain/zero/1.0"
@@ -8321,7 +8321,7 @@
                             "itemCount": 1,
                             "itemIsGroup": true,
                             "sekoUri": "http://urn.fi/urn:nbn:fi:au:seko:00445",
-                            "note": 12
+                            "note": "12 jousisoitinta"
                         }
                     ],
                     "sources": [
