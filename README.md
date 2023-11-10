@@ -4,6 +4,10 @@ Tämä repositorio sisältää sivustolla [Yhtenäistettyjen musiikkinimekkeiden
 
 JSON-tiedoston tietorakenne on kuvattu repositoriossa [musiikinluettelointi/ohjeluettelot-json-readme](https://github.com/musiikinluettelointi/ohjeluettelot-json-readme).
 
+## Lisenssi 
+
+[Creative Commons Zero v1.0 Universal](LICENSE)
+
 ## Yhteystiedot
 
 info@musiikinluettelointi.fi
